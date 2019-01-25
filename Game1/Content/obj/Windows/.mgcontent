@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Administrateur/Desktop/Tetris/Game1/Content/scoreFont.spritefont</File>
+    <File>C:/Users/Administrateur/Desktop/Tetris/Game1/Content/EmptyBlock.png</File>
+    <File>C:/Users/Administrateur/Desktop/Tetris/Game1/Content/FilledBlock.png</File>
+    <File>C:/Users/Administrateur/Desktop/Tetris/Game1/Content/bg.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>

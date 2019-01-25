@@ -1,0 +1,125 @@
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\Game1.exe.config
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\Game1.exe
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\Game1.pdb
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\Tetris.dll
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.dll
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\Tetris.pdb
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.xml
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\1430626\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\1430626\Desktop\Tetris\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\1430626\Desktop\Tetris\Game1\obj\x86\Debug\Game1.exe
+C:\Users\1430626\Desktop\Tetris\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\Game1.exe.config
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\Game1.exe
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\Game1.pdb
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\Tetris.dll
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\Tetris.pdb
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Administrateur\Desktop\saveme\Tetris\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\Game1.exe.config
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\Game1.exe
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\Game1.pdb
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\Tetris.dll
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.dll
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\Tetris.pdb
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.xml
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\William Ngo\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\William Ngo\Desktop\Tetris\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\William Ngo\Desktop\Tetris\Game1\obj\x86\Debug\Game1.exe
+C:\Users\William Ngo\Desktop\Tetris\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\Game1.exe.config
+C:\Users\Administrateur\Desktop\Tetris\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Administrateur\Desktop\Tetris\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\Content\EmptyBlock.xnb
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\Content\FilledBlock.xnb
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\Content\scoreFont.xnb
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\Game1.exe
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\Game1.pdb
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\Tetris.dll
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\Tetris.pdb
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Administrateur\Desktop\Tetris\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\Tetris\Game1\bin\Windows\Debug\Content\bg.xnb
